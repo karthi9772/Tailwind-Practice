@@ -1,7 +1,10 @@
+// import Color from "./components/Color";
+import ContainerSpacing from "./components/ContainerSpacing";
 const App = () => {
   return (
     <div>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      {/* <Color /> */}
+      <ContainerSpacing />
     </div>
   );
 };
